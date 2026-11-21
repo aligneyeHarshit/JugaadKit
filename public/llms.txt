@@ -1,0 +1,25 @@
+# JugaadKit
+
+> JugaadKit (https://jugaadkit.com/) is a free set of online tools that run entirely in the user's web browser. No signup, no watermarks, no usage limits, and files are never uploaded to a server. Made in India. "Jugaad" is a Hindi word for a clever, resourceful quick fix.
+
+## Tools
+
+- [Sign PDF](https://jugaadkit.com/sign/): Free online tool to add one or more signature images to a PDF. Upload a PDF and a PNG/JPG signature, drag a rectangle where it should go, move or resize it, and download the signed PDF. Supports multiple signatures and pages, and transparent-background removal. Works on desktop and mobile. Processing happens in the browser, so the PDF is never uploaded.
+
+## Key facts
+
+- Price: free. Account: not required. Watermark: none. Daily limit: none.
+- Privacy: files are processed locally in the browser and are not sent to JugaadKit servers.
+- Limitation: the Sign PDF tool inserts an image of a signature. It does not create a certified digital signature (for example DSC or Aadhaar eSign in India). Acceptance of image signatures depends on the recipient and local law.
+- Not supported: password-protected or encrypted PDFs.
+- Planned tools: compress PDF, merge PDF, resize image (not yet available).
+
+## Pages
+
+- [Home](https://jugaadkit.com/): overview, tools list and FAQ
+- [Privacy Policy](https://jugaadkit.com/privacy/)
+- [Terms of Use](https://jugaadkit.com/terms/)
+
+## Contact
+
+hello@jugaadkit.com
